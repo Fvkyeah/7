@@ -1,0 +1,18 @@
+[05-May-2016 03:15:40 America/New_York] PHP Parse error:  syntax error, unexpected 'page' (T_STRING) in /home/cekelphv/public_html/amazonv3/index.php on line 38
+[05-May-2016 03:17:51 America/New_York] PHP Parse error:  syntax error, unexpected 'page' (T_STRING) in /home/cekelphv/public_html/amazonv3/index.php on line 37
+[05-May-2016 03:17:52 America/New_York] PHP Parse error:  syntax error, unexpected 'page' (T_STRING) in /home/cekelphv/public_html/amazonv3/index.php on line 37
+[05-May-2016 03:17:52 America/New_York] PHP Parse error:  syntax error, unexpected 'page' (T_STRING) in /home/cekelphv/public_html/amazonv3/index.php on line 37
+[05-May-2016 03:17:53 America/New_York] PHP Parse error:  syntax error, unexpected 'page' (T_STRING) in /home/cekelphv/public_html/amazonv3/index.php on line 37
+[05-May-2016 03:18:28 America/New_York] PHP Parse error:  syntax error, unexpected 'location' (T_STRING) in /home/cekelphv/public_html/amazonv3/index.php on line 39
+[05-May-2016 03:18:30 America/New_York] PHP Parse error:  syntax error, unexpected 'location' (T_STRING) in /home/cekelphv/public_html/amazonv3/index.php on line 39
+[05-May-2016 03:19:03 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/cekelphv/public_html/amazonv3/index.php on line 42
+[05-May-2016 03:19:05 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/cekelphv/public_html/amazonv3/index.php on line 42
+[05-May-2016 03:19:23 America/New_York] PHP Parse error:  syntax error, unexpected '');' (T_ENCAPSED_AND_WHITESPACE) in /home/cekelphv/public_html/amazonv3/index.php on line 27
+[05-May-2016 03:19:26 America/New_York] PHP Parse error:  syntax error, unexpected '');' (T_ENCAPSED_AND_WHITESPACE) in /home/cekelphv/public_html/amazonv3/index.php on line 27
+[05-May-2016 03:19:56 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/cekelphv/public_html/amazonv3/index.php on line 42
+[05-May-2016 03:20:31 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/cekelphv/public_html/amazonv3/index.php on line 37
+[05-May-2016 03:20:31 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/cekelphv/public_html/amazonv3/index.php on line 37
+[05-May-2016 03:20:32 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/cekelphv/public_html/amazonv3/index.php on line 37
+[05-May-2016 03:20:49 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/cekelphv/public_html/amazonv3/index.php on line 37
+[05-May-2016 03:20:50 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/cekelphv/public_html/amazonv3/index.php on line 37
+[05-May-2016 03:21:40 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/cekelphv/public_html/amazonv3/index.php on line 38

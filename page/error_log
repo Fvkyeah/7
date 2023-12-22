@@ -1,0 +1,43 @@
+[07-Apr-2016 09:50:26 America/New_York] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home/cekelphv/public_html/amazon/page/submit_login.php on line 3
+[07-Apr-2016 09:51:13 America/New_York] PHP Parse error:  syntax error, unexpected '!' in /home/cekelphv/public_html/amazon/page/submit_login.php on line 7
+[07-Apr-2016 11:12:13 America/New_York] PHP Fatal error:  Cannot use object of type stdClass as array in /home/cekelphv/public_html/amazon/page/address_confirm.php on line 6
+[07-Apr-2016 11:15:14 America/New_York] PHP Warning:  Illegal string offset 'country' in /home/cekelphv/public_html/amazon/page/address_confirm.php on line 6
+[07-Apr-2016 11:15:14 America/New_York] PHP Warning:  Illegal string offset 'city' in /home/cekelphv/public_html/amazon/page/address_confirm.php on line 6
+[07-Apr-2016 11:15:47 America/New_York] PHP Warning:  Illegal string offset 'country' in /home/cekelphv/public_html/amazon/page/address_confirm.php on line 6
+[07-Apr-2016 11:15:47 America/New_York] PHP Warning:  Illegal string offset 'city' in /home/cekelphv/public_html/amazon/page/address_confirm.php on line 6
+[07-Apr-2016 11:16:28 America/New_York] PHP Warning:  Illegal string offset 'country' in /home/cekelphv/public_html/amazon/page/address_confirm.php on line 6
+[07-Apr-2016 11:16:28 America/New_York] PHP Warning:  Illegal string offset 'city' in /home/cekelphv/public_html/amazon/page/address_confirm.php on line 6
+[07-Apr-2016 11:17:17 America/New_York] PHP Warning:  Illegal string offset 'country' in /home/cekelphv/public_html/amazon/page/address_confirm.php on line 6
+[07-Apr-2016 11:17:17 America/New_York] PHP Warning:  Illegal string offset 'city' in /home/cekelphv/public_html/amazon/page/address_confirm.php on line 6
+[07-Apr-2016 11:17:28 America/New_York] PHP Warning:  Illegal string offset 'country' in /home/cekelphv/public_html/amazon/page/address_confirm.php on line 7
+[07-Apr-2016 11:17:28 America/New_York] PHP Warning:  Illegal string offset 'city' in /home/cekelphv/public_html/amazon/page/address_confirm.php on line 7
+[07-Apr-2016 11:17:30 America/New_York] PHP Warning:  Illegal string offset 'country' in /home/cekelphv/public_html/amazon/page/address_confirm.php on line 7
+[07-Apr-2016 11:17:30 America/New_York] PHP Warning:  Illegal string offset 'city' in /home/cekelphv/public_html/amazon/page/address_confirm.php on line 7
+[07-Apr-2016 11:17:45 America/New_York] PHP Warning:  Illegal string offset 'country' in /home/cekelphv/public_html/amazon/page/address_confirm.php on line 7
+[07-Apr-2016 11:17:45 America/New_York] PHP Warning:  Illegal string offset 'city' in /home/cekelphv/public_html/amazon/page/address_confirm.php on line 7
+[07-Apr-2016 11:20:04 America/New_York] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/cekelphv/public_html/amazon/page/address_confirm.php on line 5
+[07-Apr-2016 11:20:54 America/New_York] PHP Warning:  Illegal string offset 'city' in /home/cekelphv/public_html/amazon/page/address_confirm.php on line 7
+[07-Apr-2016 11:21:28 America/New_York] PHP Warning:  Illegal string offset 'city' in /home/cekelphv/public_html/amazon/page/address_confirm.php on line 7
+[07-Apr-2016 11:21:43 America/New_York] PHP Warning:  Illegal string offset 'city' in /home/cekelphv/public_html/amazon/page/address_confirm.php on line 7
+[07-Apr-2016 22:41:52 America/New_York] PHP Parse error:  syntax error, unexpected '=' in /home/cekelphv/public_html/amazon/page/creditcards_confirm.php on line 252
+[07-Apr-2016 23:29:35 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cekelphv/public_html/amazon/page/index.php:144) in /home/cekelphv/public_html/amazon/page/index.php on line 171
+[07-Apr-2016 23:31:01 America/New_York] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ',' or ')' in /home/cekelphv/public_html/amazon/page/index.php on line 2
+[08-Apr-2016 00:17:08 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/cekelphv/public_html/amazon/page/submit_billing.php on line 16
+[08-Apr-2016 00:17:57 America/New_York] PHP Parse error:  syntax error, unexpected '.' in /home/cekelphv/public_html/amazon/page/submit_billing.php on line 17
+[08-Apr-2016 00:19:09 America/New_York] PHP Parse error:  syntax error, unexpected '.' in /home/cekelphv/public_html/amazon/page/submit_billing.php on line 17
+[08-Apr-2016 00:19:21 America/New_York] PHP Parse error:  syntax error, unexpected '.' in /home/cekelphv/public_html/amazon/page/submit_billing.php on line 17
+[08-Apr-2016 00:19:21 America/New_York] PHP Parse error:  syntax error, unexpected '.' in /home/cekelphv/public_html/amazon/page/submit_billing.php on line 17
+[08-Apr-2016 00:19:48 America/New_York] PHP Parse error:  syntax error, unexpected 'a' (T_STRING) in /home/cekelphv/public_html/amazon/page/submit_billing.php on line 17
+[08-Apr-2016 00:19:58 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/cekelphv/public_html/amazon/page/submit_billing.php on line 24
+[08-Apr-2016 00:20:15 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/cekelphv/public_html/amazon/page/submit_billing.php on line 24
+[08-Apr-2016 00:20:16 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/cekelphv/public_html/amazon/page/submit_billing.php on line 24
+[08-Apr-2016 00:20:59 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/cekelphv/public_html/amazon/page/submit_billing.php on line 23
+[08-Apr-2016 00:21:00 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/cekelphv/public_html/amazon/page/submit_billing.php on line 23
+[08-Apr-2016 00:21:01 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/cekelphv/public_html/amazon/page/submit_billing.php on line 23
+[08-Apr-2016 00:29:25 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/cekelphv/public_html/amazon/page/address_confirm.php on line 21
+[08-Apr-2016 00:47:47 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/cekelphv/public_html/amazon/page/submit_vbv.php on line 21
+[08-Apr-2016 01:00:00 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/cekelphv/public_html/amazon/page/review.php on line 376
+[08-Apr-2016 01:00:23 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/cekelphv/public_html/amazon/page/review.php on line 264
+[12-Apr-2016 04:01:47 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/cekelphv/public_html/amazon/page/submit_vbv.php on line 26
+[12-Apr-2016 04:04:35 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/cekelphv/public_html/amazon/page/submit_vbv.php on line 25
+[05-May-2016 02:59:01 America/New_York] PHP Parse error:  syntax error, unexpected '/' in /home/cekelphv/public_html/amazonv3/page/review.php on line 272
